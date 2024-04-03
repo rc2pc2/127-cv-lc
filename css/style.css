@@ -1,0 +1,25 @@
+header{
+    text-align: center;
+    background-color: #ededed;
+    padding-top: 3rem;
+}
+
+h1{
+    font-size: 3rem;
+}
+
+.font-dark-yellow{
+    color: #cf8b07;
+}
+
+.subtitle{
+    font-style: italic;
+}
+
+.border-bottom-gold{
+    border-bottom: solid 2px #cf8b07;
+}
+
+#main-image{
+    height: 10rem;
+}
